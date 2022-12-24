@@ -11,22 +11,22 @@
 
   
   
-  <h3>Slick design!</h3>
+  <h3 align="center">Slick design!</h3>
   
   ![7ee4988e3acd6204499ef7538643ba84](https://user-images.githubusercontent.com/91401714/209417450-5c53bf12-49bd-4e22-99a4-c1ff8506d9cc.png)
 ---
 
-<h3>Search for products</h3>
+<h3 align="center">Search for products</h3>
 
 ![5a8523c9acbfd2ca3cdbe75bddd24b50](https://user-images.githubusercontent.com/91401714/209417466-8ae359bc-7a0a-4503-85b6-da259dfbecd6.jpg)
 ---
 
-<h3>Choose the color and add it to the cart</h3>
+<h3 align="center">Choose the color and add it to the cart</h3>
 
 ![1ba83b9d5335033ef96867f705e3a0a7](https://user-images.githubusercontent.com/91401714/209417494-bd9e9c16-a692-4338-8eee-ba0e6cf8b1fe.png)
 ---
 
-<h3>Checkout and Payment</h3>
+<h3 align="center">Checkout and Payment</h3>
 
 ![cd1ad830e82fe147e6f7ef3e56bae9f7](https://user-images.githubusercontent.com/91401714/209417512-3fc5132b-c87d-4f4c-b7a2-2492d9589046.png)
 
