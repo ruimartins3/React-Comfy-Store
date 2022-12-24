@@ -113,7 +113,7 @@ const CheckoutForm = () => {
         />
         <button disabled={processing || disabled || succeeded} id="submit">
           <span id="button-text">
-            {processing ? <div className="spinner" id="spinnier"></div> : "Pay"}
+            {processing ? <div className="spinner" id="spinner"></div> : "Pay"}
           </span>
         </button>
         {/* Show any error that happens when processing the payment */}
